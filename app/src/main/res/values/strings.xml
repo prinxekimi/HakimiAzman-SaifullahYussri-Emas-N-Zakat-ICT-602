@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Emas N Zakat</string>
+
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+
+
+    <string name="messageWithLink">
+        <a href="https://github.com/prinxekimi/HakimiAzman-SaifullahYussri-Emas-N-Zakat-ICT-602">View our website</a></string>
+
+</resources>
